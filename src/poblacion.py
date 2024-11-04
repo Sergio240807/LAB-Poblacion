@@ -61,3 +61,4 @@ def muestra_comparativa_paises_anyo(poblaciones, anyo, paises):
     plt.title(titulo)
     plt.bar(lista_paises, lista_habitantes)
     plt.show()
+    
